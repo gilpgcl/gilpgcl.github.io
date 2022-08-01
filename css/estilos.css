@@ -1,1 +1,13 @@
-body {font-family:sans-serif}
+html {
+ font-family: sans-serif;
+}
+
+h1 {
+ text-align: center;
+}
+
+ul {
+ max-width: 35rem;
+ margin-left: auto;
+ margin-right: auto;
+}
