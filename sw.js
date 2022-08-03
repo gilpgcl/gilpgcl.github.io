@@ -1,5 +1,5 @@
-const VERSION = "1.00"
-const CACHE = "ejemploPWA"
+const VERSION = "1.1"
+const CACHE = "gilpgcl"
 const ARCHIVOS = [
  "css/estilos.css",
  "img/icono2048.png",
