@@ -3,7 +3,7 @@
  "name": "Sitios educativos de Gilberto Pacheco Gallegos",
  "start_url": "/index.html",
  "display": "standalone",
- "theme_color": "#1533ea",
+ "theme_color": "#ffffff",
  "background_color": "#ffffff",
  "icons": [
   {
