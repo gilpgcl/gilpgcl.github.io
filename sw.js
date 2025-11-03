@@ -1,4 +1,4 @@
-const VERSION = "1.9"
+const VERSION = "1.10"
 const CACHE = "gilpgcl"
 const ARCHIVOS = [
  "css/estilos.css",
